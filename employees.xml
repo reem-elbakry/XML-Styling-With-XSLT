@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="employees.xsl"?>
+<employees>
+    <employee>
+        <name>Rania</name>
+        <phones>
+            <phone type="mobile">02096735281</phone>
+            <phone type="home">02096735281</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>st.</street>
+                <building_no>building no</building_no>
+                <region>region</region>
+                <city>bajour</city>
+                <country>egypt</country>
+			</address>
+        </addresses>
+        <email>rania@gmail.com</email>
+    </employee>
+    <employee>
+        <name>Reem</name>
+        <phones>
+            <phone type="home">02096735281</phone>
+            <phone type="work">02096735281</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>st.</street>
+                <building_no>building no</building_no>
+                <region>region</region>
+                <city>bajour</city>
+                <country>egypt</country>
+			</address>
+        </addresses>
+        <email>reem@gmail.com</email>
+    </employee>
+</employees>
